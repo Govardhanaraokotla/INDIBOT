@@ -1,18 +1,17 @@
-```markdown
-# 🦾 IndiBot
+# 🤖 IndiBot - Innovating the Future 🌟
 
-Welcome to **IndiBot**! Innovating the future with robotics. 
+Welcome to **IndiBot**, a robotics company focused on bringing innovative solutions to improve everyday life. Our cutting-edge products include **Photobot 2.0**, **Healthbot**, and **Cleanbot**. Explore our products and discover how we're shaping the future!
 
 ## 🚀 Features
 
-- **Photobot 2.0** 📸: Captures high-quality photos and live-streams events.
-- **Healthbot** 💪: Monitors and improves health.
-- **Cleanbot** 🧹: Automates cleaning tasks.
+- **Photobot 2.0** 📸: High-quality photo capture and live-streaming.
+- **Healthbot** 💪: Health monitoring and improvement.
+- **Cleanbot** 🧹: Home and office cleaning automation.
 
 ## 🌐 Website
 
-Check out the live website:  
-[IndiBot - Innovating the Future](https://yourusername.github.io/repository-name/)
+Visit our official website:  
+[IndiBot - Innovating the Future](https://govardhanaraokotla.github.io/INDIBOT/))
 
 ## 🛠️ Tech Stack
 
@@ -25,15 +24,3 @@ Check out the live website:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repository-name.git
-   ```
-
-2. Push to GitHub and deploy with GitHub Pages.
-
-## 📧 Contact
-
-Email: [contact@indibot.com](mailto:govardhanaraokotla27@gmail.com)
-
----
-
-© 2025 IndiBot. All rights reserved.
-```
